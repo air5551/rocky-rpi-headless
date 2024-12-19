@@ -4,9 +4,9 @@
 # -- YOU MAY CHANGE VALUES HERE --
 
 # Provide the desired addresses here
-RPI_IP=192.168.1.127/24
-RPI_GW=192.168.1.1
-RPI_DNS=192.168.1.1
+RPI_IP=192.168.0.9/24
+RPI_GW=192.168.0.1
+RPI_DNS=192.168.0.1
 
 # Default connection name, no need to change unless, after fisrt run,
 # the logs show a different connection name.
